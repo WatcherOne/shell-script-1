@@ -1,2 +1,2 @@
-# shell-script-1
-写的一个简单shell脚本，对shell有更深的了解
+## shell-script
+对shell的一些学习认识来做的一个简单shell脚本
